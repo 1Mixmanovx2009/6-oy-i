@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext, createContext } from 'react';
+import React, { useState, useContext, createContext } from 'react';
 import mpty from "./assets/no-image-icon-6.png";
 
 const LikedUsersContext = createContext();
